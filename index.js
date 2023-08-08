@@ -1,4 +1,4 @@
-const { CloseButton } = require("react-bootstrap-v5");
+
 
 const chatInput = document.querySelector('.chat-input textarea');
 const sendChatBtn = document.querySelector('.chat-input span');
