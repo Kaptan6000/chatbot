@@ -7,7 +7,7 @@ const chatbot_toggler = document.querySelector('.chatbot-toggler');
 const chatbotCloseBtn = document.querySelector('.close-btn');
 
 let userMessage;
-let API_KEY = "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";
+let API_KEY = "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";
 
 const generateResponse = (incomingChatLi) =>{
     const API_URL = "https://api.openai.com/v1/chat/completions";
